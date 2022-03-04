@@ -1,0 +1,116 @@
+
+	header{
+	height: 150px;
+
+}
+
+	.logo{
+	padding: 32px;
+	padding-left: 32px;
+	float: left;
+	
+	
+
+}
+
+	nav{
+	float: right;
+	font-size: 18px;
+	padding: 13px;
+	padding-right: 25px;
+}
+
+	aside{
+	border: solid gray 5px;
+	float: right;
+	width: 15%;
+	padding: 10px;
+	background-color: whitesmoke;
+	height: 604px;
+
+}
+
+ 	.container{
+	width: 80%;
+	border: solid 5px black;
+	float: left;
+	
+}
+
+
+	a{
+	
+	
+	
+}
+
+	b{
+	
+}
+
+
+	c{
+	
+}
+	
+
+	d{
+	
+}
+
+
+	.wrapper{
+	width: 80%;
+	border: solid 5px black;
+	float: left;
+	
+}
+
+	
+
+
+
+
+
+	footer{
+	clear: both;
+	height: 100px;
+	text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
